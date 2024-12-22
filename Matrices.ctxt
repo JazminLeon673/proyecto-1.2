@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matrices
+comment1.params=
+comment1.target=Matrices()
+comment2.params=fila\ combinacion
+comment2.target=void\ guardarCombinacion(int,\ int[])
+comment3.params=fila\ resultado
+comment3.target=void\ guardarResultado(int,\ java.lang.String[])
+comment4.params=
+comment4.target=void\ imprimirMatrices()
+numComments=5
